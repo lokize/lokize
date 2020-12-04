@@ -23,4 +23,4 @@ Founder of alot websites, lover of technology, programming language, open source
 
 ![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)
 
-https://img.shields.io/github/followers/lokize?style=social
+![https://img.shields.io/github/followers/lokize?style=social]
