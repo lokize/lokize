@@ -1,10 +1,10 @@
 ## [![lokize header](https://github.com/lokize/lokize/blob/main/ggkQtWOsbL.png)](https://lokize.com)
 
 <p align='center'>
-<a href="https://dev.to/lokize"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/lokize"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/lokize"><img height="30" src="https://simpleicons.org/icons/dev-dot-to.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/lokize"><img height="30" src="https://simpleicons.org/icons/twitter.svg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/lokize"><img height="30" src="https://simpleicons.org/icons/instagram.svg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lokize/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/lokize/"><img height="30" src="https://simpleicons.org/icons/linkedin.svg?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there! My name is Lokize. 👋🤓</h2>
