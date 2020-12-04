@@ -29,4 +29,4 @@ Founder of alot websites, lover of technology, programming language, open source
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3>
 
-![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)
+<center>![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)</center>
