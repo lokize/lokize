@@ -6,7 +6,7 @@
 <a href="https://instagram.com/lokize"><img height="30" src="https://simpleicons.org/icons/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lokize/"><img height="30" src="https://simpleicons.org/icons/linkedin.svg?raw=true"></a>
 </p>
-
+<p align='center'>
 ![](https://img.shields.io/badge/VueJSDev-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/JavaDev-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/LinuxDev-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/HtmlDev-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/JSDev-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/SpringBootDev-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
+</p>
 
 <h2 align="center">Hello there! My name is Lokize. 👋🤓</h2>
 <p align="center">I'm a Backend Java, NodeJs and Front End Web Developer, Graphic Designer, Content Creator
