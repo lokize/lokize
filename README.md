@@ -15,4 +15,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
-![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)
+<center>![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)</center>
