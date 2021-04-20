@@ -21,6 +21,10 @@
 ![](https://img.shields.io/badge/JavaScript-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/SpringBoot-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/GameDev-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Unraid-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Nginx-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Unreal-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Unity-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Electron-True-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <h2 align="center">Hello there! My name is Lokize. 👋🤓</h2>
