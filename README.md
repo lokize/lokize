@@ -1,4 +1,4 @@
-## [![lokize header](https://github.com/lokize/lokize/blob/main/79mEhpIoCF.png)](https://lokize.com)
+## [![lokize header](https://github.com/lokize/lokize/blob/main/profile.png)](https://lokize.com)
 
 <p align='center'>
 <a href="https://dev.to/lokize"><img height="30" src="https://simpleicons.org/icons/dev-dot-to.svg?raw=true"></a>&nbsp;&nbsp;
