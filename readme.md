@@ -1,6 +1,6 @@
 ### World Hello :alien: <br>
 
-<p align="center">![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)</p>
+<p align="center"> ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif) </p>
     
     
 
