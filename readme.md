@@ -8,7 +8,7 @@
 ```javascript
 const lokize = {    
     code: ["Javascript", "Typescript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "games", "arcade", "linux", "opensource", "rpg", "virtualized system"],
+    askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualized system", "rpg", "games", "arcade", "craft beer"],
     technologies: {
         backEnd: {
             js: ["node", "fastify", "express", "SuiteScript"],
