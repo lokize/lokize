@@ -3,7 +3,7 @@
 ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)    
     
 
-![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)! [](https://visitor-badge.glitch.me/badge?page_id=lokize.lokize)<br>
+![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=lokize.lokize)<br>
     
 ```javascript
 const lokize = {    
