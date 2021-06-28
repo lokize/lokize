@@ -1,4 +1,4 @@
-### World Hello :alien: <br>
+### World Hello <br>
 
 ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)    
     
@@ -27,8 +27,10 @@ const lokize = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Ios Mobile App Development",
-    AboutMe: "I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in Mobile i have worked with React Native and Flutter,
-    I also play with Graphic Designer and Content Creator, I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology,    programming language, open source, forum, docker, unraid and arcade, I like to discover and learn new things.."
+    AboutMe: " :alien: I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS<br>
+    in Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator,<br>
+    I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, programming language,<br>
+    open source, forum, docker, unraid and arcade, I like to discover and learn new things..."
 };
 ```
 
