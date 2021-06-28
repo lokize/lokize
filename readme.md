@@ -1,4 +1,4 @@
-<p align="justify">
+<p align="center">
 
 ### World Hello :alien: <br> ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)
 
