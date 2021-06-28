@@ -3,11 +3,10 @@
 ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)    
     
 
-![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)<br>
+![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)! [](https://visitor-badge.glitch.me/badge?page_id=lokize.lokize)<br>
     
 ```javascript
-const lokize = {
-    pronouns: "He" | "Him",
+const lokize = {    
     code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "games", "arcade", "linux", "opensource", "rpg", "virtualized system"],
     technologies: {
