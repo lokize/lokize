@@ -8,8 +8,8 @@
 ```javascript
 const lokize = {    
     code: ["Javascript", "Typescript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualized system", "rpg", "games",
-    "arcade", "craft beer"],
+    askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualized system",
+    "rpg", "games", "arcade", "craft beer"],
     technologies: {
         backEnd: {
             js: ["node", "fastify", "express", "SuiteScript"],
@@ -26,7 +26,7 @@ const lokize = {
         misc: ["Firebase", "Socket.IO", "selenium", "fauna", "supabase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Meu Gym, Mesa Dracônica, Alien W3",
     AboutMe: " I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS<br>
     in Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator,<br>
     I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, programming language,<br>
