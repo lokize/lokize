@@ -1,5 +1,3 @@
-<h3 align="center"> World Hello </h3> <br>
-
 <p align="center"> <img src="https://github.com/lokize/lokize/blob/main/lokize.gif"/> </p>   
     
 
