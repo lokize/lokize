@@ -27,14 +27,14 @@ const lokize = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Ios Mobile App Development",
-    AboutMe: " :alien: I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS<br>
+    AboutMe: " I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS<br>
     in Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator,<br>
     I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, programming language,<br>
     open source, forum, docker, unraid and arcade, I like to discover and learn new things..."
 };
 ```
 
-## Connect with me<br><br>
+## Connect with me :alien: <br><br>
 <a href="https://www.linkedin.com/in/marcos-paulo-faria-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
