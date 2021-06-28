@@ -26,16 +26,15 @@ const lokize = {
     AboutMe: "I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator, I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, programming language, open source, forum, docker, unraid and arcade, I like to discover and learn new things.."
 };
 ```
-<br>
-## Connect with me
+
+## Connect with me<br><br>
 <a href="https://www.linkedin.com/in/marcos-paulo-faria-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<br>
-<br>
-## Expertise
+
+## Expertise<br><br>
 
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
