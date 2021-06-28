@@ -1,7 +1,8 @@
-### Hello World <br>
+### World Hello  <br>
 ![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)<br>
+<h3>
 ```javascript
-const anmol = {
+const lokize = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "games", "arcade", "linux", "opensource", "rpg", "virtualized system"],
@@ -25,6 +26,7 @@ const anmol = {
     AboutMe: "I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator, I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, programming language, open source, forum, docker, unraid and arcade, I like to discover and learn new things.."
 };
 ```
+</h3>
 <br><br>
 ## Connect with me
 <a href="https://www.linkedin.com/in/marcos-paulo-faria-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
