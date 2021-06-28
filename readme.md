@@ -65,5 +65,5 @@ const lokize = {
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3><br/><br>
 
-![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)
+
 
