@@ -1,8 +1,31 @@
 ### Hello World <br>
-![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)
-  ![](https://visitor-badge.glitch.me/badge?page_id=lokize.lokize)
-<br>
-I am a developer from Brazil
+![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)<br>
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "games", "arcade", "linux", "opensource", "rpg", "virtualized system"],
+    technologies: {
+        backEnd: {
+            js: ["node", "fastify", "express", "SuiteScript"],
+        },
+        frontEnd: {
+            js: ["Vue", "React", "Nuxt"],
+            css: ["tailwind", "elementui", "primefaces", "vuetify", "bootstrap"]
+        },
+        mobileApp: {
+            native: ["Android Development", "Ios Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "codeStars", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "postgresql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "fauna", "supabase"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Ios Mobile App Development",
+    funFact: "I afraid about update without where"
+};
+```
+<br><br>
 - I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator
 - I have currently created the Meu Gym Plataform.
 - Founder of alot websites, lover of technology, programming language, open source, forum, docker, unraid and arcade, I like to discover and learn new things..
