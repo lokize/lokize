@@ -31,7 +31,7 @@ const lokize = {
     open source, forum, docker, linux, unraid and arcade, I like to discover and learn new things..."
 };
 ```
-<br><br>
+<br>
 
 ## Connect with me :wink: <br><br>
 <a href="https://www.linkedin.com/in/marcos-paulo-faria-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -64,7 +64,7 @@ const lokize = {
 <br>
 <br>
 <br>
-<br>
+<br><br><br>
 
 <br><br><br><br>
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3><br/><br>
