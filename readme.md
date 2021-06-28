@@ -1,8 +1,8 @@
-<p align="center">
+### World Hello :alien: <br>
 
-### World Hello :alien: <br> ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)
+<p align="center">![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)</p>
     
-    </p>
+    
 
 ![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)<br>
     
