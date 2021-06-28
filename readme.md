@@ -26,7 +26,6 @@ I am a developer from Brazil
 ![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)
 
 <br>
-<br>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3><br/><br>
 
