@@ -1,6 +1,6 @@
 <h3 align="center"> World Hello </h3> <br>
 
-![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)    
+<div style="text-align:center"> ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif) </div>   
     
 
 ![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=lokize.lokize)<br>
