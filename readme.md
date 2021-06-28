@@ -1,4 +1,4 @@
-### World Hello :alien: <br> ![Alt Text](https://data.whicdn.com/images/224286164/original.gif)
+### World Hello :alien: <br> ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)
 
 ![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)<br>
     
