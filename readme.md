@@ -27,8 +27,8 @@ const lokize = {
     currentFocus: "Meu Gym, Mesa Dracônica, Alien W3",
     AboutMe: " I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in
     Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator,
-    I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, code, open source,
-    forum, docker, linux, unraid and arcade, I like to discover and learn new things..."
+    I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, code,
+    open source, forum, docker, linux, unraid and arcade, I like to discover and learn new things..."
 };
 ```
 
@@ -50,8 +50,7 @@ const lokize = {
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br><br>
-<br><br>
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
