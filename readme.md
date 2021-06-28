@@ -1,3 +1,5 @@
+<p align="justify">
+
 ### World Hello :alien: <br> ![Alt Text](https://github.com/lokize/lokize/blob/main/lokize.gif)
 
 ![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)<br>
@@ -60,3 +62,5 @@ const lokize = {
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3><br/><br>
 
 ![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)
+
+</p>
