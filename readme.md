@@ -1,4 +1,5 @@
-### Hello World👋![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)
+### Hello World <br>
+![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)
 I am a developer from Brazil
 - I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator
 - I have currently created the Meu Gym Plataform.
