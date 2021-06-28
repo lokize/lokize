@@ -15,13 +15,13 @@ const lokize = {
             js: ["node", "fastify", "express", "SuiteScript"],
         },
         frontEnd: {
-            js: ["Vue", "React", "Nuxt"],
+            js: ["Vue", "React", "Next"],
             css: ["tailwind", "elementui", "primefaces", "vuetify", "bootstrap"]
         },
         mobileApp: {
             native: ["Android Development", "Ios Development"]
         },
-        devOps: ["AWS", "Docker🐳", "codeStars", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "codeStars", "Azure", "Google Cloud", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "postgresql"],
         misc: ["Firebase", "Socket.IO", "selenium", "fauna", "supabase"]
     },
