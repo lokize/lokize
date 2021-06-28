@@ -20,11 +20,15 @@ I am a developer from Brazil
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
-<br>
+<br><br>
 
 ![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3><br/>
+<br>
+<br><br>
+
+<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3><br/><br>
+<br>
 
 ![Lokize Github Stats](https://github-readme-stats.vercel.app/api?username=lokize&show_icons=true&theme=radical)
