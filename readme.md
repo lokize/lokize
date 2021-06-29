@@ -17,7 +17,8 @@ const lokize = {
             css: ["tailwind", "elementui", "primefaces", "vuetify", "bootstrap"]
         },
         mobileApp: {
-            native: ["Android Development", "Ios Development"]
+            native: ["Android Development", "Ios Development"],
+            multiPlataform: ["Flutter", "React-Native", "Vue-Native"]
         },
         devOps: ["AWS", "Docker🐳", "codeStars", "Azure", "Google Cloud", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "postgresql"],
