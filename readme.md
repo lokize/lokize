@@ -45,10 +45,10 @@ const lokize = {
 
 ## My Alien Skills :alien: <br><br>
 
-<img align="left" alt="html5" src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="html5" src="https://img.shields.io/badge/E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="css" src="https://img.shields.io/badge/239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="java" src="https://img.shields.io/badge/ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
