@@ -10,7 +10,7 @@ const lokize = {
     "forum", "hacking", "rpg", "games", "arcade", "craft beer"],
     technologies: {
         backEnd: {
-            java: ["spring, "jpa", "jsf"]
+            java: ["spring", "jpa", "jsf"],
             js: ["node", "fastify", "express", "SuiteScript"],
         },
         frontEnd: {
