@@ -23,7 +23,7 @@ const lokize = {
         },
         devOps: ["AWS", "Docker🐳", "codeStars", "Azure", "Google Cloud", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "postgresql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "fauna", "supabase"]
+        misc: ["Firebase", "Socket.IO", "Selenium", "Fauna", "Supabase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Meu Gym, Mesa Dracônica, Alien W3",
