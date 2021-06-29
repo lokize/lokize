@@ -21,7 +21,7 @@ const lokize = {
             native: ["Android Development", "Ios Development"],
             multiPlataform: ["Flutter", "React-Native", "Vue-Native"]
         },
-        devOps: ["AWS", "Docker🐳", "codeStars", "Azure", "Google Cloud", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "codeStars", "Azure", "Google Cloud", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "postgresql"],
         misc: ["Firebase", "Socket.IO", "selenium", "fauna", "supabase"]
     },
