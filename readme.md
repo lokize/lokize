@@ -1,3 +1,8 @@
+“For the things we have to learn before we can do them, we learn by doing them.”
+
+― Aristotle, The Nicomachean Ethics
+
+
 <p align="center"> <img src="https://github.com/lokize/lokize/blob/main/lokize.gif"/> </p>   
     
 
