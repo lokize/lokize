@@ -30,7 +30,7 @@ const lokize = {
         misc: ["Firebase", "Socket.IO", "Selenium", "Fauna", "Supabase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Meu Gym, Mesa Dracônica, Alien W3",
+    currentFocus: "Meu Gym, Mesa Dracônica, Alien W3, Lokize Games",
     AboutMe: " I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in
     Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator,
     I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, code,
