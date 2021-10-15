@@ -45,7 +45,7 @@ const lokize = {
 <a href="http://www.medium.com/lokize"><img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-<br><br><br><br>
+<br><br><br>
 
 ## My Alien Skills :alien: <br><br>
 
@@ -68,7 +68,7 @@ const lokize = {
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://lokize.com/projects">here</a> </h3><br/><br>
 
