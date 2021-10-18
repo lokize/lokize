@@ -7,7 +7,8 @@
 ― Aristotle, The Nicomachean Ethics</h3>
 
 ```javascript
-const lokize = {    
+const lokize = { 
+    tdha: true.
     code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualized system",
     "forum", "hacking", "rpg", "games", "arcade", "craft beer"],
