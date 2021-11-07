@@ -10,8 +10,8 @@
 const lokize = { 
     tdha: true.
     code: ["Javascript", "Typescript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualized system",
-    "forum", "hacking", "rpg", "games", "arcade", "craft beer"],
+    askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualization",
+    "forum", "hacking", "rpg", "games", "arcade"],
     technologies: {
         backEnd: {
             java: ["spring", "jpa", "jsf"],
