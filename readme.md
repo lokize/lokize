@@ -6,6 +6,8 @@
 
 ― Aristotle, The Nicomachean Ethics</h3>
 
+<a href="https://alienw3.com">AlienW3 Website</a><a href="https://marcospreviato.com">My Personal Profile Website</a>
+
 ```javascript
 const lokize = { 
     tdha: true.
