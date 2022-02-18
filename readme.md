@@ -39,9 +39,9 @@ const lokize = {
     open source, forum, docker, linux, unraid and arcade, I like to discover and learn new things..."
 };
 ```
-<br>
+<br><br>
 
-## Connect with me :wink: <br><br>
+## Connect with me :wink: <br><br><br>
 <a href="https://www.linkedin.com/in/marcos-paulo-faria-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
