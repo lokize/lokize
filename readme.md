@@ -42,6 +42,7 @@ const lokize = {
 <br>
 
 ## Connect with me :wink: <br>
+<br>
 <a href="https://www.linkedin.com/in/marcos-paulo-faria-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="http://www.medium.com/lokize"><img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
@@ -51,7 +52,7 @@ const lokize = {
 <br>
 
 ## My Alien Skills :alien: <br>
-
+<br>
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
