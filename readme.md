@@ -16,7 +16,6 @@
 
 ```javascript
 const lokize = { 
-    tdha: true.
     code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualization",
     "forum", "hacking", "rpg", "games", "arcade"],
@@ -42,7 +41,8 @@ const lokize = {
     AboutMe: " I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in
     Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator,
     I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, code,
-    open source, forum, docker, linux, unraid and arcade, I like to discover and learn new things..."
+    open source, forum, docker, linux, unraid and arcade, I like to discover and learn new things...",
+    tdha: true
 };
 ```
 <br>
