@@ -20,17 +20,17 @@ const lokize = {
     technologies: {
         backEnd: {
             java: ["spring", "jpa", "jsf"],
-            js: ["node", "fastify", "express", "SuiteScript"],
+            js: ["node", "deno", "fastify", "express", "bunjs"],
         },
         frontEnd: {
-            js: ["Vue", "React", "Next"],
+            js: ["Vue", "React", "Next", "Nuxt"],
             css: ["tailwind", "elementui", "primefaces", "vuetify", "bootstrap"]
         },
         mobileApp: {
             native: ["Android Development", "Ios Development"],
-            multiPlataform: ["Flutter", "React-Native", "Vue-Native"]
+            multiPlataform: ["Flutter", "Capacitor", "React-Native", "Vue-Native"]
         },
-        devOps: ["AWS", "Docker🐳", "codeStars", "Azure", "Google Cloud", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Flyio", "Vercel", "codeStars", "Azure", "Google Cloud", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "postgresql"],
         misc: ["Firebase", "Socket.IO", "Selenium", "Fauna", "Supabase"]
     },
