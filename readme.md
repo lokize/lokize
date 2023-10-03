@@ -14,14 +14,6 @@
 
 <br>
 
-## Connect with me :wink: <br>
-<br>
-<a href="https://www.linkedin.com/in/marcos-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/marcospfpreviato"><img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="http://www.medium.com/lokize"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><br><br><br>
-
-<br>
-
 ## My Alien Skills :alien: <br>
 
 <br>![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
