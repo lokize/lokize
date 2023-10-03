@@ -12,39 +12,6 @@
 
 ― Aristotle, The Nicomachean Ethics</h3>
 
-```javascript
-const lokize = { 
-    code: ["Javascript", "Typescript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "linux", "unix", "opensource", "virtualization",
-    "forum", "hacking", "rpg", "games", "arcade"],
-    technologies: {
-        backEnd: {
-            java: ["spring", "jpa", "jsf"],
-            js: ["node", "deno", "fastify", "express", "bunjs"],
-        },
-        frontEnd: {
-            js: ["Vue", "React", "Next", "Nuxt"],
-            css: ["tailwind", "elementui", "primefaces", "vuetify", "bootstrap"]
-        },
-        mobileApp: {
-            native: ["Android Development", "Ios Development"],
-            multiPlataform: ["Flutter", "Capacitor", "React-Native", "Vue-Native"]
-        },
-        devOps: ["AWS", "Docker🐳", "Flyio", "Vercel", "codeStars", "Azure", "Google Cloud", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "postgresql"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "Fauna", "Supabase"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Meu Gym, Alien W3, Lokize Games,MoneyS2, Puphez, GaryCast, LilyVanile",
-    AboutMe: " I have knowledge in Backend with NodeJS and Java in Frontend with VueJS and ReactJS in
-    Mobile i have worked with React Native and Flutter, I also play with Graphic Designer and Content Creator,
-    I have currently created the Meu Gym Plataform. Founder of alot websites, lover of technology, code,
-    open source, forum, docker, linux, unraid and arcade, I like to discover and learn new things...",
-    tdha: true
-};
-```
-<br>
-
 ## Connect with me :wink: <br>
 <br>
 <a href="https://www.linkedin.com/in/marcos-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
