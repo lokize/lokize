@@ -12,6 +12,8 @@
 
 ― Aristotle, The Nicomachean Ethics</h3>
 
+<br>
+
 ## Connect with me :wink: <br>
 <br>
 <a href="https://www.linkedin.com/in/marcos-previato-72884b169/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
