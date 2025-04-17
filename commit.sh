@@ -14,8 +14,7 @@ README_FILE="README.md"
 # Função para modificar o README.md
 modify_readme() {
     # Adiciona uma linha com a data atual ao README.md
-    echo "- Founder of alot apps, lover of technology, programming language, open source, forum, docker, unraid and arcade, I like to discover and learn new things..
-  <br>" >>"$README_FILE"
+    echo "" >>"$README_FILE"
 }
 
 # Modifica o README.md
