@@ -28,6 +28,9 @@ if [ -n "$(git status --porcelain)" ]; then
     git commit -m "Atualização em $(date)"
     echo "Commit realizado com sucesso!"
 
+    # Atualiza a branch local com as mudanças do remoto antes de enviar (resolvendo conflito de fast-forward)
+    git pull --rebase
+
     # Sincroniza com o repositório remoto
     git push
 else
