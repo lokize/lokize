@@ -2,8 +2,6 @@
   <img src="./banner.png" alt="lokize banner" />
 </p>
 
-# lokize
-
 ![Arch](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Kernel-Linux-000000?style=flat-square&logo=linux)
 ![Wayland](https://img.shields.io/badge/Display-Wayland-000000?style=flat-square)
