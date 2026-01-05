@@ -6,6 +6,12 @@
   <strong>Linux-first · systems · tooling · automation</strong>
 </p>
 
+<h3 align="center">
+“For the things we have to learn before we can do them, we learn by doing them.”
+<br>
+― Aristotle, The Nicomachean Ethics
+</h3>
+
 ---
 
 <p align="center">
@@ -24,14 +30,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/preethamb97/preethamb97/608624b1917bf87669402127161c92ac914269b0/github-contribution-grid-snake.svg"/>
 </p>
-
-<h3 align="center">
-“For the things we have to learn before we can do them, we learn by doing them.”
-<br>
-― Aristotle, The Nicomachean Ethics
-</h3>
-
-<br>
 
 ---
 
