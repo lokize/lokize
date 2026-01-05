@@ -34,11 +34,11 @@
 ## system
 
 ![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Kernel](https://img.shields.io/badge/Kernel-Linux-000000?style=flat-square&logo=linux)
-![Wayland](https://img.shields.io/badge/Display-Wayland-000000?style=flat-square)
-![WM](https://img.shields.io/badge/WM-Niri-000000?style=flat-square)
-![Shell](https://img.shields.io/badge/Shell-Fish-000000?style=flat-square)
-![Editor](https://img.shields.io/badge/Editor-VSCode-000000?style=flat-square&logo=visualstudiocode)
+![Kernel](https://img.shields.io/badge/Kernel-Linux-555555?style=flat-square&logo=linux)
+![Wayland](https://img.shields.io/badge/Display-Wayland-666666?style=flat-square)
+![WM](https://img.shields.io/badge/WM-Niri-444444?style=flat-square)
+![Shell](https://img.shields.io/badge/Shell-Fish-2E8B57?style=flat-square)
+![Editor](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
