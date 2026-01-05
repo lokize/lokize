@@ -12,7 +12,6 @@
 ![Docker](https://img.shields.io/badge/Containers-Docker-000000?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/SCM-Git-000000?style=flat-square&logo=git)
 ![Gitea](https://img.shields.io/badge/SCM-Gitea-000000?style=flat-square&logo=gitea)
-![FTP](https://img.shields.io/badge/Protocol-FTP-000000?style=flat-square)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-000000?style=flat-square&logo=javascript)
 ![Go](https://img.shields.io/badge/Code-Go-000000?style=flat-square&logo=go)
