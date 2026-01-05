@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="lokize banner" />
+  <img src="./lokize.png" alt="lokize" />
 </p>
 
 ![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
