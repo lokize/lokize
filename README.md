@@ -14,12 +14,16 @@
 
 ---
 <p align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/lokize?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/lokize?style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=lokize.lokize)
-![status](https://img.shields.io/website?color=purple&down_color=red&down_message=offline&label=ALW3%20&up_color=purple&up_message=online&url=https%3A%2F%2Falienw3.web.app)
-
+  <a href="https://github.com/lokize">
+    <img src="https://img.shields.io/github/followers/lokize?style=social" />
+  </a>
+  <a href="https://github.com/lokize">
+    <img src="https://img.shields.io/github/stars/lokize?style=social" />
+  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lokize.lokize" />
+  <a href="https://alienw3.web.app">
+    <img src="https://img.shields.io/website?color=purple&down_color=red&down_message=offline&label=ALW3&up_color=purple&up_message=online&url=https%3A%2F%2Falienw3.web.app" />
+  </a>
 </p>
 
 <p align="center">
