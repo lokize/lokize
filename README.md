@@ -38,6 +38,8 @@ Systems, automation, backend and desktop tooling.
 - containerized workloads
 - cloud-native and self-hosted systems
 - OS-integrated desktop utilities
+- Making the tools I use every day better
+- Mobile apps and tools to improve my productivity
 
 ---
 
@@ -50,3 +52,4 @@ Display   Wayland
 WM        Niri
 Shell     fish
 Editor    VS Code
+DS        Noctalia Shell
