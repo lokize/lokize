@@ -2,6 +2,12 @@
   <img src="./lokize.png" alt="lokize" />
 </p>
 
+<p align="center">
+  <strong>Linux-first · systems · tooling · automation</strong>
+</p>
+
+---
+
 ![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Kernel](https://img.shields.io/badge/Kernel-Linux-000000?style=flat-square&logo=linux)
 ![Wayland](https://img.shields.io/badge/Display-Wayland-000000?style=flat-square)
@@ -25,20 +31,35 @@
 
 ---
 
+I build applications and tools focused on **improving real workflows**, not demos.  
+Most of what I create starts as something I *personally need* — then evolves through iteration, UI/UX refinement, and automation.
+
+My interests revolve around **systems**, **desktop environments**, **DevOps**, and **infrastructure**.  
+I value practicality, clarity, and tools that integrate naturally with the operating system.
+
+> AI is used as assistance — not as a replacement for understanding.
+
+---
+
+### philosophy
+
 Linux-first development.  
-Systems, automation, backend and desktop tooling.
+Systems over abstractions.  
+Tooling that stays out of the way.
+
+If it works, don’t touch it.
 
 ---
 
 ## focus
 
-- Linux internals & userland tooling
-- backend services & automation
-- containerized workloads
-- cloud-native and self-hosted systems
-- OS-integrated desktop utilities
-- Making the tools I use every day better
-- Mobile apps and tools to improve my productivity
+- Linux internals & userland tooling  
+- Backend services & automation  
+- Containerized workloads  
+- Cloud-native and self-hosted systems  
+- OS-integrated desktop utilities  
+- Improving the tools I use every day  
+- Mobile apps and tools to improve my productivity  
 
 ---
 
