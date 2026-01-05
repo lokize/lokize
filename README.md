@@ -2,38 +2,42 @@
   <img src="./banner.png" alt="lokize banner" />
 </p>
 
-![Arch](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Kernel-Linux-000000?style=flat-square&logo=linux)
+![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-Linux-000000?style=flat-square&logo=linux)
 ![Wayland](https://img.shields.io/badge/Display-Wayland-000000?style=flat-square)
 ![WM](https://img.shields.io/badge/WM-Niri-000000?style=flat-square)
 ![Shell](https://img.shields.io/badge/Shell-Fish-000000?style=flat-square)
 ![Editor](https://img.shields.io/badge/Editor-VSCode-000000?style=flat-square&logo=visualstudiocode)
 
-![Docker](https://img.shields.io/badge/Container-Docker-000000?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Containers-Docker-000000?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/SCM-Git-000000?style=flat-square&logo=git)
-![CI](https://img.shields.io/badge/CI/CD-GitHub_Actions-000000?style=flat-square&logo=githubactions)
+![Gitea](https://img.shields.io/badge/SCM-Gitea-000000?style=flat-square&logo=gitea)
+![FTP](https://img.shields.io/badge/Protocol-FTP-000000?style=flat-square)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-000000?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-000000?style=flat-square&logo=nodedotjs)
 ![Go](https://img.shields.io/badge/Code-Go-000000?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/Code-Python-000000?style=flat-square&logo=python)
 ![Rust](https://img.shields.io/badge/Code-Rust-000000?style=flat-square&logo=rust)
 ![Java](https://img.shields.io/badge/Code-Java-000000?style=flat-square&logo=openjdk)
 
+![AWS](https://img.shields.io/badge/Cloud-AWS-000000?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/Cloud-Google_Cloud-000000?style=flat-square&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Cloud-Azure-000000?style=flat-square&logo=microsoftazure)
+
 ---
 
 Linux-first development.  
-Systems, automation, desktop tooling.
+Systems, automation, backend and desktop tooling.
 
 ---
 
 ## focus
 
 - Linux internals & userland tooling
-- background services and automation
+- backend services & automation
 - containerized workloads
+- cloud-native and self-hosted systems
 - OS-integrated desktop utilities
-- minimal, scriptable workflows
 
 ---
 
