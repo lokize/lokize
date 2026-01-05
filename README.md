@@ -31,17 +31,6 @@
 
 ---
 
-## system
-
-![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Kernel](https://img.shields.io/badge/Kernel-Linux-000000?style=flat-square&logo=linux)
-![Wayland](https://img.shields.io/badge/Display-Wayland-000000?style=flat-square)
-![WM](https://img.shields.io/badge/WM-Niri-000000?style=flat-square)
-![Shell](https://img.shields.io/badge/Shell-Fish-000000?style=flat-square)
-![Editor](https://img.shields.io/badge/Editor-VSCode-000000?style=flat-square&logo=visualstudiocode)
-
----
-
 ## tooling & runtime
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-000000?style=flat-square&logo=javascript)
