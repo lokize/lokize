@@ -169,5 +169,5 @@ DS        Noctalia Shell
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/preethamb97/preethamb97/608624b1917bf87669402127161c92ac914269b0/github-contribution-grid-snake.svg"/>
+  <img src="./grid-snake.svg"/>
 </p>
