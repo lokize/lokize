@@ -78,7 +78,8 @@ DS        Noctalia Shell
 ```
 ---
 
-## tooling & runtim
+## tooling & runtime
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-000000?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/Code-Go-000000?style=flat-square&logo=go)
@@ -118,11 +119,26 @@ DS        Noctalia Shell
 ![GCP](https://img.shields.io/badge/Cloud-Google_Cloud-000000?style=flat-square&logo=googlecloud)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-000000?style=flat-square&logo=microsoftazure)
 
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel)
+![Cloudflare](https://img.shields.io/badge/Edge-Cloudflare-000000?style=flat-square&logo=cloudflare)
+![Fly.io](https://img.shields.io/badge/Cloud-Fly.io-000000?style=flat-square)
+
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-000000?style=flat-square&logo=githubactions)
 ![GitLab CI](https://img.shields.io/badge/CI%2FCD-GitLab_CI-000000?style=flat-square&logo=gitlab)
 
 ![Nginx](https://img.shields.io/badge/Proxy-NGINX-000000?style=flat-square&logo=nginx)
-![Fly.io](https://img.shields.io/badge/Cloud-Fly.io-000000?style=flat-square)
+
+---
+
+## backend as a service & platforms
+
+![Skullboard](https://img.shields.io/badge/BaaS-Skullboard-000000?style=flat-square)
+![Supabase](https://img.shields.io/badge/BaaS-Supabase-000000?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/BaaS-Firebase-000000?style=flat-square&logo=firebase)
+
+![Vercel](https://img.shields.io/badge/Platform-Vercel-000000?style=flat-square&logo=vercel)
+![Railway](https://img.shields.io/badge/Platform-Railway-000000?style=flat-square)
+![Render](https://img.shields.io/badge/Platform-Render-000000?style=flat-square)
 
 ---
 
