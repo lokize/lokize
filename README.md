@@ -109,7 +109,7 @@ DS        Noctalia Shell
 
 ---
 
-## cloud & ci/cd
+## cloud, ci/cd & scm
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-000000?style=flat-square&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/Cloud-Google_Cloud-000000?style=flat-square&logo=googlecloud)
@@ -120,6 +120,8 @@ DS        Noctalia Shell
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-000000?style=flat-square&logo=githubactions)
 ![GitLab CI](https://img.shields.io/badge/CI%2FCD-GitLab_CI-000000?style=flat-square&logo=gitlab)
 ![Nginx](https://img.shields.io/badge/Proxy-NGINX-000000?style=flat-square&logo=nginx)
+![Git](https://img.shields.io/badge/SCM-Git-000000?style=flat-square&logo=git)
+![Gitea](https://img.shields.io/badge/SCM-Gitea-000000?style=flat-square&logo=gitea)
 
 ---
 
@@ -150,13 +152,6 @@ DS        Noctalia Shell
 ![WireGuard](https://img.shields.io/badge/VPN-WireGuard-000000?style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/DNS-Cloudflare-000000?style=flat-square&logo=cloudflare)
 ![Fail2Ban](https://img.shields.io/badge/Security-Fail2Ban-000000?style=flat-square)
-
----
-
-## scm
-
-![Git](https://img.shields.io/badge/SCM-Git-000000?style=flat-square&logo=git)
-![Gitea](https://img.shields.io/badge/SCM-Gitea-000000?style=flat-square&logo=gitea)
 
 ---
 
