@@ -45,8 +45,6 @@ Linux-first development.
 Systems over abstractions.  
 Tooling that stays out of the way.
 
-If it works, don’t touch it.
-
 ---
 
 ## focus
